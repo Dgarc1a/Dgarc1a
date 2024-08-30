@@ -12,11 +12,14 @@
 
 | Skill                                          
 |-----------------------------------------------|
+| Adversary Simulation                          |
 | SIEM Implementation and Log Analysis          |
 | Network Monitoring and Attack Detection       | 
 | Scripting and Security Automation             | 
 | Incident Response Planning and Execution      | 
 | Attack Path Analysis, Management              |
+| Penetration Testing                           |
+| Red Teaming                                   |
 | Vulnerability Management                      | 
 
 ## Programming Languages
