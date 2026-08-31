@@ -2,87 +2,66 @@
 
 ### I'm Domingos Garcia
 
-- 👨‍💻 Computer engineer 💻 Programmer: Java, PHP, Python
-- 🔍 Computational Forensics and Red Team lover. My journey into computer science led me to develop a passion for cybersecurity. I am a professional with diverse skills and interests
+### Network Security Engineer | Cybersecurity | Detection Engineering | Offensive Security
+I'm a Cybersecurity professional focused on **Network Security, Defensive Security, Detection Engineering and Offensive Security**.
 
-## Social Networks
-<a href="https://www.linkedin.com/in/domingos-garcia"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+My goal is to understand security from both sides of the problem: **how systems can be attacked, how attacks can be detected, how controls can be bypassed, and how infrastructure can be designed to reduce risk.**
 
-## Skills
+I use this repository to document my technical journey, experiments, labs, research and continuous development in cybersecurity.
 
-| Skill                                          
+## 🧠 My Security Philosophy
+
+I don't want to learn security tools in isolation.
+I want to understand the mechanisms behind them.
+My approach is:
+
+                                Understand
+                                    ↓
+                                Attack
+                                    ↓
+                                Detect
+                                    ↓
+                                Investigate
+                                    ↓
+                                Mitigate
+                                    ↓
+                                Automate
+                                    ↓
+                                Architect
+                                
+                                
+Whenever I learn a new vulnerability, attack technique or security technology, I try to answer:
+
+- How does it work?
+- How can it be exploited?
+- What evidence does the attack leave behind?
+- How can it be detected?
+- How can detection be bypassed?
+- How can the weakness be mitigated?
+- What can be automated?
+- How should the architecture evolve to reduce the risk?
+
+## 🎯 Current Focus
+
+|My current development is centered around      
 |-----------------------------------------------|
-| Adversary Simulation                          |
-| SIEM Implementation and Log Analysis          |
-| Network Monitoring and Attack Detection       | 
-| Scripting and Security Automation             | 
-| Incident Response Planning and Execution      | 
-| Attack Path Analysis, Management              |
-| Penetration Testing                           |
-| Red Teaming                                   |
-| Vulnerability Management                      | 
+| 🌐 Network Security                           |
+| 🔥 Firewall Engineering                       |
+| 🛡️ Network Defense                            | 
+| 🔎 Detection Engineering                      | 
+| 📊 SIEM & Security Monitoring                 | 
+| 🧪 Offensive Security                         |
+| ⚙️ Security Automation                        |
+| 🏗️ Security Architecture                      |
+| Network Segmentation & Zero Trust             | 
 
-## Programming Languages
-<div>
-   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-   <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
-   <img src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff" />
-</div>
+## 🎓 Certifications
 
-## Cyber security
-<div>
-    <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=security&logoColor=white" />
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-    <img src="https://img.shields.io/badge/picoCTF-003399?style=for-the-badge&logo=picoctf&logoColor=white" />
-</div>
+Certifications are part of my development strategy, but practical knowledge and real-world problem solving remain the priority.
 
-## Tools
+## 📫 Connect
 
-### Operating Systems
-<div>
-   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-   <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff" />
-   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff" />
-   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-</div>
+- GitHub: [Dgarc1a](https://github.com/Dgarc1a)
+- LinkedIn: [Domingos Garcia](https://www.linkedin.com/in/domingos-garcia)
 
-### Network And SIEM
-<div>
-     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-     <img src="https://img.shields.io/badge/Wazuh-5A6578?style=for-the-badge&logo=wazuh&logoColor=white" />
-     <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
-     <img src="https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
-     <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-     <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-
-<!--
-**Dgarc1a/Dgarc1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Learn deeply. Attack intelligently. Detect precisely. Defend deliberately. Automate relentlessly. Architect securely.**
