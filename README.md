@@ -15,19 +15,19 @@ I don't want to learn security tools in isolation.
 I want to understand the mechanisms behind them.
 My approach is:
 
-                                Understand
-                                    ↓
-                                Attack
-                                    ↓
-                                Detect
-                                    ↓
-                                Investigate
-                                    ↓
-                                Mitigate
-                                    ↓
-                                Automate
-                                    ↓
-                                Architect
+                                                Understand
+                                                    ↓
+                                                Attack
+                                                    ↓
+                                                Detect
+                                                    ↓
+                                                Investigate
+                                                    ↓
+                                                Mitigate
+                                                    ↓
+                                                Automate
+                                                    ↓
+                                                Architect
                                 
                                 
 Whenever I learn a new vulnerability, attack technique or security technology, I try to answer:
@@ -43,7 +43,7 @@ Whenever I learn a new vulnerability, attack technique or security technology, I
 
 ## 🎯 Current Focus
 
-|My current development is centered around      
+|My work and continuous development are centered around     
 |-----------------------------------------------|
 | 🌐 Network Security                           |
 | 🔥 Firewall Engineering                       |
